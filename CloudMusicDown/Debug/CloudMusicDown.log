@@ -1,0 +1,6 @@
+﻿  CloudMusicDown.cpp
+c:\users\23539\source\repos\cloudmusicdown\cloudmusicdown\cloudmusicdown.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\23539\source\repos\cloudmusicdown\cloudmusicdown\cloudmusicdown.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\23539\source\repos\cloudmusicdown\cloudmusicdown\cloudmusicdown.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\23539\source\repos\cloudmusicdown\cloudmusicdown\cloudmusicdown.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+  CloudMusicDown.vcxproj -> C:\Users\23539\source\repos\CloudMusicDown\Debug\CloudMusicDown.exe
